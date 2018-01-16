@@ -1,0 +1,1 @@
+minerd --url=http://127.0.0.1:4210 --userpass=rpc_user:8cde5e64e7297b1cb4c495d1a

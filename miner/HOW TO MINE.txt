@@ -1,0 +1,7 @@
+0: (Close UgandaCoin Wallet if it is open)
+1: Press windows key + r
+2: type %appdata% and hit enter
+3: Go to "UgandaCoin" folder
+4: Copy the "UgandaCoin.conf" file from the miner folder that this text file is in, into the UgandaCoin folder in Appdata
+5: Open your UgandaCoin wallet
+6: Run mine.bat
